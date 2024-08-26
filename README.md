@@ -1,4 +1,4 @@
-<h1 align="left">Heya, I'm Karl (Llama) 🦙</h1>
+<h1 align="left">Heya, I'm Karl (Llamahat) 🦙</h1>
 
 ###
 
